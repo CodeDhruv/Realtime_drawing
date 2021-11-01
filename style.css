@@ -1,0 +1,23 @@
+.heading{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px, 5px, 5px rgb(94, 94, 94);
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 2px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+    background-color: wheat;
+    line-height: 3;
+}
